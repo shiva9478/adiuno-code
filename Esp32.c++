@@ -17,9 +17,9 @@
 
 // WiFi configuration
 String primarySSID = "Shivam5G";
-String primaryPassword = "9478263705";
+String primaryPassword = "";
 String apSSID = "Shivam5G_Repeater";
-String apPassword = "9478263705";
+String apPassword = "";
 int apChannel = 7;
 int maxClients = 8;
 
